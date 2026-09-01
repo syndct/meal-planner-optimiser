@@ -1,0 +1,19 @@
+[project]
+name = "meal-planner-optimiser"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+authors = [
+    { name = "Michael Wainwright", email = "mwainwright@shoprite.co.za" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "pyomo>=6.10.1",
+]
+
+[project.scripts]
+meal-planner-optimiser = "meal_planner_optimiser:main"
+
+[build-system]
+requires = ["uv_build>=0.12.8,<0.13.0"]
+build-backend = "uv_build"
