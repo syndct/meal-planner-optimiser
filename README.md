@@ -27,3 +27,11 @@ A meal planning tool that receives user inputs in the form of conversational dat
 - NL4Opt Competition: Formulating Optimization Problems Based on Their Natural Language Descriptions
     - [Paper](https://arxiv.org/abs/2303.08233)
     - [Github](https://github.com/nl4opt/nl4opt-competition)
+- OptiChat: Bridging Optimization Models and Practitioners with Large Language Models
+    - [Paper](https://arxiv.org/abs/2501.08406)
+    - [Github](https://github.com/li-group/OptiChat)
+- ORLM: A Customizable Framework in Training Large Models for Automated Optimization Modeling
+    - [Paper](https://arxiv.org/abs/2405.17743)
+    - [Github](https://github.com/Cardinal-Operations/ORLM)
+- Toward a Trustworthy Optimization Modeling Agent via Verifiable Synthetic Data Generation
+    - [Paper](https://arxiv.org/abs/2508.03117)
