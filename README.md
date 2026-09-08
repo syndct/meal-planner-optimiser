@@ -15,3 +15,15 @@ A meal planning tool that receives user inputs in the form of conversational dat
 
 **UI**
 - `streamlist` app.
+
+## Literature
+- OptiMUS: Scalable Optimization Modeling with (MI)LP Solvers and Large Language Models
+    - [Paper](https://arxiv.org/abs/2402.10172)
+    - [Github](https://github.com/teshnizi/OptiMUS)
+- OR-LLM-Agent: Automating Modeling and Solving of Operations Research Optimization Problems with Reasoning LLM
+    - [Paper](https://arxiv.org/abs/2503.10009)
+- OPTIAGENT: A Physics-Driven Agentic Framework for Automated Optical Design
+    - [Paper](https://arxiv.org/abs/2602.23761)
+- NL4Opt Competition: Formulating Optimization Problems Based on Their Natural Language Descriptions
+    - [Paper](https://arxiv.org/abs/2303.08233)
+    - [Github](https://github.com/nl4opt/nl4opt-competition)
